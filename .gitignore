@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.log
+hotfix_output/
+live_output/
+demo_output/
+raw/
+data/raw/
+*.token
+*.secrets
