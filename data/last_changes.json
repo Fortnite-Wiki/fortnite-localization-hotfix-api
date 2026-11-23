@@ -1,6 +1,37 @@
 {
-  "checkedAt": "2026-11-22T19:37:11+00:00",
+  "checkedAt": "2026-11-23T22:40:01+00:00",
   "baseline": false,
-  "changeCount": 0,
-  "changes": []
+  "changeCount": 2,
+  "changes": [
+    {
+      "type": "added",
+      "current": {
+        "sourceFile": "DefaultGame.ini",
+        "category": "Game",
+        "namespace": "",
+        "key": "846B256345017B9A670613907CEBEF9A",
+        "nativeCulture": "",
+        "nativeString": "Your favorite chimera, all in gold!",
+        "isMinimalPatch": true,
+        "localizedStrings": {
+          "ar": "أفضل كيميرا أمام الميكروفون، الآن بذهب خالص!"
+        }
+      }
+    },
+    {
+      "type": "added",
+      "current": {
+        "sourceFile": "DefaultGame.ini",
+        "category": "Game",
+        "namespace": "",
+        "key": "98C38E0B411B15F011D4E4B1D89DC306",
+        "nativeCulture": "",
+        "nativeString": "Solid Gold Kasane Teto",
+        "isMinimalPatch": true,
+        "localizedStrings": {
+          "pl": "Kasane Teto ze Złota"
+        }
+      }
+    }
+  ]
 }

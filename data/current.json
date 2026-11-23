@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "offline": false,
-  "checkedAt": "2026-11-22T19:37:11+00:00",
-  "contentSha256": "38d0bd1a7908bf3662345fa474ed1b87bb1194fd296d3e1e8d479a3b7eda8773",
-  "count": 409,
+  "checkedAt": "2026-11-23T22:40:01+00:00",
+  "contentSha256": "cb35840bd25657d1799a269c6f0fe520f5a2b4f05726b744f7c0b09d26e3357f",
+  "count": 411,
   "sources": [
     {
       "filename": "DefaultGame.ini",
-      "hash": "c3d7d4601b181653b033a6123559b032467a1bb7cf1094008f707887acf48fb2",
-      "uploaded": "2026-11-22T14:00:25.195Z",
-      "records": 409
+      "hash": "257f589a01a9c43a178225579bb271be43f2c93a313a70270ab6b1b464574d7c",
+      "uploaded": "2026-11-23T14:32:06.347Z",
+      "records": 411
     }
   ],
   "replacements": [
@@ -4690,6 +4690,18 @@
       "sourceFile": "DefaultGame.ini",
       "category": "Game",
       "namespace": "",
+      "key": "846B256345017B9A670613907CEBEF9A",
+      "nativeCulture": "",
+      "nativeString": "Your favorite chimera, all in gold!",
+      "isMinimalPatch": true,
+      "localizedStrings": {
+        "ar": "أفضل كيميرا أمام الميكروفون، الآن بذهب خالص!"
+      }
+    },
+    {
+      "sourceFile": "DefaultGame.ini",
+      "category": "Game",
+      "namespace": "",
       "key": "84CA24FC4194A65967A12AA76F67FC09",
       "nativeCulture": "",
       "nativeString": "Cotton Candy Chopper",
@@ -5468,6 +5480,18 @@
         "vi": "Tăng cấp Tinh Linh đã trang bị bằng cách hạ gục người chơi, mở thùng đồ, sử dụng mã gian lận và trích xuất Tinh Linh.",
         "zh-hans": "通过淘汰玩家、打开容器、使用作弊码和回收精灵，可以提升已装备精灵的等级。",
         "zh-Hant": "透過淘汰玩家、開啟儲藏容器、使用作弊指令及回收精靈來升級已裝備的精靈。"
+      }
+    },
+    {
+      "sourceFile": "DefaultGame.ini",
+      "category": "Game",
+      "namespace": "",
+      "key": "98C38E0B411B15F011D4E4B1D89DC306",
+      "nativeCulture": "",
+      "nativeString": "Solid Gold Kasane Teto",
+      "isMinimalPatch": true,
+      "localizedStrings": {
+        "pl": "Kasane Teto ze Złota"
       }
     },
     {
