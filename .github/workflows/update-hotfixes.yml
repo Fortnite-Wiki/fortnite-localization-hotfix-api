@@ -3,8 +3,8 @@ name: Collect localization hotfixes
 on:
   workflow_dispatch:
   schedule:
-    # Checks twice an hour, not exactly guaranteed to run on the minute.
-    - cron: '7,37 * * * *'
+    # Check every five minutes; scheduled runs may start late.
+    - cron: '1-59/5 * * * *'
 
 permissions:
   contents: write
