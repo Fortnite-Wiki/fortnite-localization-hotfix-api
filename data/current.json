@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "offline": false,
-  "checkedAt": "2026-11-24T15:22:33+00:00",
-  "contentSha256": "e0aa6a48d0a4573fe9aa964ac99b4627c52a798d8b0aa71588b7b76db7a850fe",
-  "count": 406,
+  "checkedAt": "2026-11-24T18:06:03+00:00",
+  "contentSha256": "6a34bf538957ae7f81da05dc26a5aae31726b9b9eaf3aa5884711a2d900087bc",
+  "count": 408,
   "sources": [
     {
       "filename": "DefaultGame.ini",
-      "hash": "c4c6c54b8b65525d169b500a7542d0024121aaf7e2f68e3476d83eb6d587e617",
-      "uploaded": "2026-11-24T09:02:34.550Z",
-      "records": 406
+      "hash": "77bae5a9d29caa9557a90c0a7ba89d38897e38b5c6345cd32571206d3e905f99",
+      "uploaded": "2026-11-24T18:00:05.883Z",
+      "records": 408
     }
   ],
   "replacements": [
@@ -2429,6 +2429,35 @@
         "vi": "Flacko Phiên Bản Helicopter",
         "zh-Hans": "Flacko直升机",
         "zh-Hant": "直升機 Flacko"
+      }
+    },
+    {
+      "sourceFile": "DefaultGame.ini",
+      "category": "Game",
+      "namespace": "",
+      "key": "39A7F91B4D2B343865178C8934821BA6",
+      "nativeCulture": "",
+      "nativeString": "Ramona's Drums",
+      "isMinimalPatch": false,
+      "localizedStrings": {
+        "ar": "عصي طبول رامونا",
+        "en": "Ramona's Drumsticks",
+        "de": "Ramonas Drumsticks",
+        "es": "Kit de Ramona",
+        "es-419": "Baquetas de Ramona",
+        "fr": "Baguettes de Ramona",
+        "id": "Stik Drum milik Ramona",
+        "it": "Bacchette di Ramona",
+        "ja": "ラモーナのドラムスティック",
+        "ko": "라모나의 드럼 스틱",
+        "pl": "Pałki Ramony",
+        "pt-BR": "Batida da Ramona",
+        "ru": "Палочки Рамоны",
+        "th": "ไม้กลองของราโมน่า",
+        "tr": "Ramona'nın Bagetleri",
+        "vi": "Cặp Dùi Trống Của Ramona",
+        "zh-Hans": "拉蒙娜的鼓棒",
+        "zh-Hant": "蘿夢娜的鼓棒"
       }
     },
     {
@@ -9114,6 +9143,35 @@
         "vi": "Đại Cao Thủ Kình Địch 4",
         "zh-hans": "对决宗师4",
         "zh-Hant": "宿敵對決宗師 4"
+      }
+    },
+    {
+      "sourceFile": "DefaultGame.ini",
+      "category": "Game",
+      "namespace": "",
+      "key": "DDD8A05C4D1D0BE3A0BDC3A1FAB24B55",
+      "nativeCulture": "",
+      "nativeString": "Ramona's Drums",
+      "isMinimalPatch": false,
+      "localizedStrings": {
+        "ar": "عصي طبول رامونا",
+        "en": "Ramona's Drumsticks",
+        "de": "Ramonas Drumsticks",
+        "es": "Kit de Ramona",
+        "es-419": "Baquetas de Ramona",
+        "fr": "Baguettes de Ramona",
+        "id": "Stik Drum milik Ramona",
+        "it": "Bacchette di Ramona",
+        "ja": "ラモーナのドラムスティック",
+        "ko": "라모나의 드럼 스틱",
+        "pl": "Pałki Ramony",
+        "pt-BR": "Batida da Ramona",
+        "ru": "Палочки Рамоны",
+        "th": "ไม้กลองของราโมน่า",
+        "tr": "Ramona'nın Bagetleri",
+        "vi": "Cặp Dùi Trống Của Ramona",
+        "zh-Hans": "拉蒙娜的鼓棒",
+        "zh-Hant": "蘿夢娜的鼓棒"
       }
     },
     {
