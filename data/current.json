@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "offline": false,
-  "checkedAt": "2026-11-24T18:06:03+00:00",
-  "contentSha256": "6a34bf538957ae7f81da05dc26a5aae31726b9b9eaf3aa5884711a2d900087bc",
-  "count": 408,
+  "checkedAt": "2026-11-25T02:21:09+00:00",
+  "contentSha256": "b5ba603c95096bb4b7bf686ce0506de64a75161fc102067a17c251cacc42cfe3",
+  "count": 409,
   "sources": [
     {
       "filename": "DefaultGame.ini",
-      "hash": "77bae5a9d29caa9557a90c0a7ba89d38897e38b5c6345cd32571206d3e905f99",
-      "uploaded": "2026-11-24T18:00:05.883Z",
-      "records": 408
+      "hash": "acddd8a8fb9160513aca5bc0aef23c7691db26d3184e74298d465d2894378772",
+      "uploaded": "2026-11-25T00:01:24.064Z",
+      "records": 409
     }
   ],
   "replacements": [
@@ -4890,6 +4890,35 @@
       "isMinimalPatch": true,
       "localizedStrings": {
         "id": "Tempuh jarak menggunakan gantole"
+      }
+    },
+    {
+      "sourceFile": "DefaultGame.ini",
+      "category": "Game",
+      "namespace": "",
+      "key": "7FC332E36659C8359D8167499BB1FDFE",
+      "nativeCulture": "",
+      "nativeString": "Mr. Whale Slippies",
+      "isMinimalPatch": false,
+      "localizedStrings": {
+        "ar": "نعال السيد الحوت",
+        "en": "Mr. Whale Slippers",
+        "de": "Herr-Wal-Schuhe",
+        "es": "Bantuflas",
+        "es-419": "Bantuflas",
+        "fr": "Pantoufles Baleine",
+        "id": "Sepatu Tn. Paus",
+        "it": "Pantofole Signor Balena",
+        "ja": "Mr. ホエール・スリッパ",
+        "ko": "웨일 씨 슬리퍼",
+        "pl": "Wielorybcie",
+        "pt-BR": "Pantufas do Sr. Baleia",
+        "ru": "Китотапочки",
+        "th": "รองเท้าคุณวาฬ",
+        "tr": "Bay Balina Terlikleri",
+        "vi": "Giày Sục Cá Voi Xanh",
+        "zh-Hans": "鲸鱼先生拖鞋",
+        "zh-Hant": "鯨魚先生拖鞋"
       }
     },
     {
