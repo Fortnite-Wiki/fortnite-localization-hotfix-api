@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "offline": false,
-  "checkedAt": "2026-11-25T02:21:09+00:00",
-  "contentSha256": "b5ba603c95096bb4b7bf686ce0506de64a75161fc102067a17c251cacc42cfe3",
-  "count": 409,
+  "checkedAt": "2026-11-25T18:38:45+00:00",
+  "contentSha256": "44ab52b07a184560fc46aeeea274f675339afdc9c64f3c0b9af096504c74d8a1",
+  "count": 410,
   "sources": [
     {
       "filename": "DefaultGame.ini",
-      "hash": "acddd8a8fb9160513aca5bc0aef23c7691db26d3184e74298d465d2894378772",
-      "uploaded": "2026-11-25T00:01:24.064Z",
-      "records": 409
+      "hash": "aa8eedfb296272cfc2ae8f0d9506d0478626d4d0ed2780addfc16f7b2d60388e",
+      "uploaded": "2026-11-25T18:04:13.271Z",
+      "records": 410
     }
   ],
   "replacements": [
@@ -10457,6 +10457,35 @@
         "vi": "Lil Uzi Vert Đã Đến Thành Trì Của Mình",
         "zh-Hans": "Lil Uzi Vert现身他的要塞",
         "zh-Hant": "Lil Uzi Vert 抵達要塞"
+      }
+    },
+    {
+      "sourceFile": "DefaultGame.ini",
+      "category": "Game",
+      "namespace": "",
+      "key": "FCF20D2641A60F75BA1BFC862EB3E189",
+      "nativeCulture": "",
+      "nativeString": "Set_03",
+      "isMinimalPatch": false,
+      "localizedStrings": {
+        "ar": "بسبس ببوت",
+        "en": "Puss in Boots",
+        "de": "Der gestiefelte Kater",
+        "es": "El gato con botas",
+        "es-419": "El gato con botas",
+        "fr": "Le Chat potté",
+        "id": "Puss in Boots",
+        "it": "Il gatto con gli stivali",
+        "ja": "長ぐつをはいたネコ",
+        "ko": "장화신은 고양이",
+        "pl": "Kot w Butach",
+        "pt-BR": "Gato de Botas",
+        "ru": "Кот в сапогах",
+        "th": "พุซ อิน บู๊ทส์",
+        "tr": "PUSS IN BOOTS (Çizmeli Kedi)",
+        "vi": "Mèo Đi Hia",
+        "zh-Hans": "穿靴子的猫",
+        "zh-Hant": "鞋貓劍客"
       }
     },
     {
