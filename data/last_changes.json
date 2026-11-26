@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-25T18:38:45+00:00",
+  "checkedAt": "2026-11-26T03:05:12+00:00",
   "baseline": false,
   "changeCount": 1,
   "changes": [
@@ -8,30 +8,30 @@
       "current": {
         "sourceFile": "DefaultGame.ini",
         "category": "Game",
-        "namespace": "",
-        "key": "FCF20D2641A60F75BA1BFC862EB3E189",
+        "namespace": "FortItemShopOfferVM",
+        "key": "CustomOfferLegalText",
         "nativeCulture": "",
-        "nativeString": "Set_03",
+        "nativeString": "*Discount for select new players; full price applies to all others.",
         "isMinimalPatch": false,
         "localizedStrings": {
-          "ar": "بسبس ببوت",
-          "en": "Puss in Boots",
-          "de": "Der gestiefelte Kater",
-          "es": "El gato con botas",
-          "es-419": "El gato con botas",
-          "fr": "Le Chat potté",
-          "id": "Puss in Boots",
-          "it": "Il gatto con gli stivali",
-          "ja": "長ぐつをはいたネコ",
-          "ko": "장화신은 고양이",
-          "pl": "Kot w Butach",
-          "pt-BR": "Gato de Botas",
-          "ru": "Кот в сапогах",
-          "th": "พุซ อิน บู๊ทส์",
-          "tr": "PUSS IN BOOTS (Çizmeli Kedi)",
-          "vi": "Mèo Đi Hia",
-          "zh-Hans": "穿靴子的猫",
-          "zh-Hant": "鞋貓劍客"
+          "ar": "*خصم للاعبين الجدد وبعض العائدين، السعر الكامل يسري على الجميع فيما دون ذلك.",
+          "en": "*Discount for new and select returning players; full price applies to all others.",
+          "de": "*Rabatt für neue und ausgewählte zurückkehrende Spieler; für alle anderen gilt der volle Preis.",
+          "es": "*Descuento para nuevos jugadores y antiguos jugadores que regresan; para el resto se aplica el precio completo.",
+          "es-419": "*Descuento para jugadores nuevos y algunos jugadores que regresan; para el resto se aplica el precio completo.",
+          "fr": "*Remise réservée aux nouveaux joueurs et à certains joueurs de retour. Les autres joueurs doivent payer le prix normal.",
+          "id": "*Diskon berlaku untuk pemain baru dan pemain lama tertentu; harga normal berlaku untuk pemain lainnya.",
+          "it": "*Sconto per nuovi giocatori e giocatori di ritorno selezionati; il prezzo pieno si applica a tutti gli altri.",
+          "ja": "*新規プレイヤーおよび一部の復帰プレイヤーには割引が適用されます。それ以外のプレイヤーには定価が適用されます。",
+          "ko": "*신규 및 일부 복귀 플레이어에게 할인이 적용됩니다. 다른 모든 플레이어에게는 정가가 적용됩니다.",
+          "pl": "*Zniżka dla nowych i wybranych powracających graczy; pozostali płacą pełną cenę.",
+          "pt-BR": "*Desconto para pessoas jogadoras iniciantes e regressantes selecionadas; o preço integral se aplica às demais.",
+          "ru": "*Скидка для новых и некоторых возвращающихся игроков; для всех остальных действует полная цена.",
+          "th": "*ส่วนลดสำหรับผู้เล่นใหม่และผู้เล่นเก่าที่กลับมาเล่นเกมบางรายเท่านั้น ผู้เล่นอื่นจะต้องชำระราคาเต็ม",
+          "tr": "*Yeni ve belirli geri dönen oyuncular için indirim geçerlidir, diğer tüm oyuncular için tam fiyat uygulanır.",
+          "vi": "*Giảm giá cho người chơi mới và một số người chơi cũ; áp dụng giá đầy đủ cho tất cả những người chơi khác.",
+          "zh-Hans": "*新玩家和部分回归玩家可享受折扣，其他玩家需支付全价。",
+          "zh-Hant": "*新玩家和部分回歸玩家可享折扣；其他玩家則須支付全額。"
         }
       }
     }

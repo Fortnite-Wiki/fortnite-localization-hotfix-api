@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "offline": false,
-  "checkedAt": "2026-11-25T18:38:45+00:00",
-  "contentSha256": "44ab52b07a184560fc46aeeea274f675339afdc9c64f3c0b9af096504c74d8a1",
-  "count": 410,
+  "checkedAt": "2026-11-26T03:05:12+00:00",
+  "contentSha256": "4fc0c6d48bc49d06415970d89fa7ff9e68d93ea9f29b2fbf272009e37c52a767",
+  "count": 411,
   "sources": [
     {
       "filename": "DefaultGame.ini",
-      "hash": "aa8eedfb296272cfc2ae8f0d9506d0478626d4d0ed2780addfc16f7b2d60388e",
-      "uploaded": "2026-11-25T18:04:13.271Z",
-      "records": 410
+      "hash": "4f9c7ba91cf8c57b95867fc54600ef76e4117ceec246de7985d3e723804c6bd1",
+      "uploaded": "2026-11-25T22:36:07.435Z",
+      "records": 411
     }
   ],
   "replacements": [
@@ -11022,6 +11022,35 @@
         "vi": "Inoxtag",
         "zh-Hans": "Inoxtag",
         "zh-Hant": "Inoxtag"
+      }
+    },
+    {
+      "sourceFile": "DefaultGame.ini",
+      "category": "Game",
+      "namespace": "FortItemShopOfferVM",
+      "key": "CustomOfferLegalText",
+      "nativeCulture": "",
+      "nativeString": "*Discount for select new players; full price applies to all others.",
+      "isMinimalPatch": false,
+      "localizedStrings": {
+        "ar": "*خصم للاعبين الجدد وبعض العائدين، السعر الكامل يسري على الجميع فيما دون ذلك.",
+        "en": "*Discount for new and select returning players; full price applies to all others.",
+        "de": "*Rabatt für neue und ausgewählte zurückkehrende Spieler; für alle anderen gilt der volle Preis.",
+        "es": "*Descuento para nuevos jugadores y antiguos jugadores que regresan; para el resto se aplica el precio completo.",
+        "es-419": "*Descuento para jugadores nuevos y algunos jugadores que regresan; para el resto se aplica el precio completo.",
+        "fr": "*Remise réservée aux nouveaux joueurs et à certains joueurs de retour. Les autres joueurs doivent payer le prix normal.",
+        "id": "*Diskon berlaku untuk pemain baru dan pemain lama tertentu; harga normal berlaku untuk pemain lainnya.",
+        "it": "*Sconto per nuovi giocatori e giocatori di ritorno selezionati; il prezzo pieno si applica a tutti gli altri.",
+        "ja": "*新規プレイヤーおよび一部の復帰プレイヤーには割引が適用されます。それ以外のプレイヤーには定価が適用されます。",
+        "ko": "*신규 및 일부 복귀 플레이어에게 할인이 적용됩니다. 다른 모든 플레이어에게는 정가가 적용됩니다.",
+        "pl": "*Zniżka dla nowych i wybranych powracających graczy; pozostali płacą pełną cenę.",
+        "pt-BR": "*Desconto para pessoas jogadoras iniciantes e regressantes selecionadas; o preço integral se aplica às demais.",
+        "ru": "*Скидка для новых и некоторых возвращающихся игроков; для всех остальных действует полная цена.",
+        "th": "*ส่วนลดสำหรับผู้เล่นใหม่และผู้เล่นเก่าที่กลับมาเล่นเกมบางรายเท่านั้น ผู้เล่นอื่นจะต้องชำระราคาเต็ม",
+        "tr": "*Yeni ve belirli geri dönen oyuncular için indirim geçerlidir, diğer tüm oyuncular için tam fiyat uygulanır.",
+        "vi": "*Giảm giá cho người chơi mới và một số người chơi cũ; áp dụng giá đầy đủ cho tất cả những người chơi khác.",
+        "zh-Hans": "*新玩家和部分回归玩家可享受折扣，其他玩家需支付全价。",
+        "zh-Hant": "*新玩家和部分回歸玩家可享折扣；其他玩家則須支付全額。"
       }
     },
     {
